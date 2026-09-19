@@ -20,7 +20,7 @@ Musk is a supporter of global far-right politics, figures, and political parties
 Musk's political activities, statements and views have made him a polarizing figure. He has been criticized for making unscientific and misleading statements, including spreading COVID-19 misinformation, promoting conspiracy theories, and affirming antisemitic, white nationalist, racist, and transphobic comments. His acquisition of Twitter was controversial because, following his pledge to decrease censorship, there was an increase in hate speech and misinformation on the service. His role in the second Trump administration attracted public backlash, particularly in response to DOGE and its cuts to the US Agency for International Development (USAID).
 
  """
-    summary_template = """ given the information {information} about a personI want you to create:
+    summary_template = """ given the information {information} about a person, I want you to create:
      1. A short summary
      2. Two interesting facts about them 
      """
